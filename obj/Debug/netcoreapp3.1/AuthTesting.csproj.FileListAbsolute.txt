@@ -1,0 +1,17 @@
+/home/justin/scratch/AuthTesting/AuthTesting/bin/Debug/netcoreapp3.1/AuthTesting
+/home/justin/scratch/AuthTesting/AuthTesting/bin/Debug/netcoreapp3.1/AuthTesting.deps.json
+/home/justin/scratch/AuthTesting/AuthTesting/bin/Debug/netcoreapp3.1/AuthTesting.runtimeconfig.json
+/home/justin/scratch/AuthTesting/AuthTesting/bin/Debug/netcoreapp3.1/AuthTesting.runtimeconfig.dev.json
+/home/justin/scratch/AuthTesting/AuthTesting/bin/Debug/netcoreapp3.1/AuthTesting.dll
+/home/justin/scratch/AuthTesting/AuthTesting/bin/Debug/netcoreapp3.1/AuthTesting.pdb
+/home/justin/scratch/AuthTesting/AuthTesting/bin/Debug/netcoreapp3.1/IdentityModel.dll
+/home/justin/scratch/AuthTesting/AuthTesting/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/justin/scratch/AuthTesting/AuthTesting/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/home/justin/scratch/AuthTesting/AuthTesting/obj/Debug/netcoreapp3.1/AuthTesting.csprojAssemblyReference.cache
+/home/justin/scratch/AuthTesting/AuthTesting/obj/Debug/netcoreapp3.1/AuthTesting.AssemblyInfoInputs.cache
+/home/justin/scratch/AuthTesting/AuthTesting/obj/Debug/netcoreapp3.1/AuthTesting.AssemblyInfo.cs
+/home/justin/scratch/AuthTesting/AuthTesting/obj/Debug/netcoreapp3.1/AuthTesting.csproj.CoreCompileInputs.cache
+/home/justin/scratch/AuthTesting/AuthTesting/obj/Debug/netcoreapp3.1/AuthTesting.csproj.CopyComplete
+/home/justin/scratch/AuthTesting/AuthTesting/obj/Debug/netcoreapp3.1/AuthTesting.dll
+/home/justin/scratch/AuthTesting/AuthTesting/obj/Debug/netcoreapp3.1/AuthTesting.pdb
+/home/justin/scratch/AuthTesting/AuthTesting/obj/Debug/netcoreapp3.1/AuthTesting.genruntimeconfig.cache
